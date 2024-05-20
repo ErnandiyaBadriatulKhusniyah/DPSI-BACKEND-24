@@ -1,0 +1,11 @@
+# BELAJAR MEMBUAT APLIKASI BACKEND MENGGUNAKAN NODEJS DAN EXPRESS
+
+## Author
+
+Nama :
+
+Ernandiya Badriatul Khusniyah
+
+NIM : 
+
+2200016127
